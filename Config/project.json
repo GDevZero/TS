@@ -1,0 +1,25 @@
+{   "ProjectList":[
+	{
+		"ProjectCode":"RD",
+		"ProjectName": "กรมสรรพากร",
+		"SystemCode":[]
+	},
+	{
+		"ProjectCode":"RD-0045-59",
+		"ProjectName": "MA IT บอ, eSup, sPIT (1/10/59-30/9/60)",
+		"SystemCode":[
+			{"Code":"01","Value": "SPIT"},
+			{"Code":"02","Value": "ESUP"},
+			{"Code":"03","Value": "PIT"},
+			{"Code":"04","Value": "CIT"},
+			{"Code":"05","Value": "VAT"},
+			{"Code":"06","Value": "SBT"},
+			{"Code":"07","Value": "REG"},
+			{"Code":"08","Value": "ปปช"},
+			{"Code":"09","Value": "ระบบจัดเก็บภาพ"},
+			{"Code":"eSup-SPIT","Value": "eSup-SPIT"},
+			{"Code":"IT","Value": "ยื่นแบบผ่านอินเทอร์เน็ต"}
+		]
+	}
+	]
+}
