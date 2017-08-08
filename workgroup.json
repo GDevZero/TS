@@ -1,5 +1,5 @@
-{	"WorkGroupList":[
-	{
+{"WorkGroupList":[
+    {
     "DepartmentCode":"DEV",
     "DepartmentName":"Development Phase",
     "ProcessCode":[
@@ -15,7 +15,7 @@
     		{"Code":"D805","Value": "D805 จัดทำรายงานการประชุม"}
     ]},
     {
-	"DepartmentCode":"SQA",
+    "DepartmentCode":"SQA",
     "DepartmentName":"Software Quality Assurance Audit",
     "ProcessCode":[
 			{"Code":"D701","Value": "D701 จัดทำรายงาน SQA (ผลการตรวจ)"},
@@ -23,7 +23,26 @@
 			{"Code":"D703","Value": "D703 ทวนสอบระบบงาน"},
 			{"Code":"D704","Value": "D704 จัดทำเอกสารการทดสอบ (เพื่อส่งมอบ)"},
 			{"Code":"D705","Value": "D705 จัดเตรียมข้อมูลเพื่อทดสอบ"},
-			{"Code":"D706","Value": "D706 Performance Test / Load Test"},
+			{"Code":"D706","Value": "D706 Performance Test / Load Test"}
+    ]}
+	,
+    {
+    "DepartmentCode":"GE",
+    "DepartmentName":"General",
+    "ProcessCode":[
+			{"Code":"D805","Value":"D805 จัดทำรายงานการประชุม"},
+			{"Code":"GE02","Value":"GE02 Search Info,Download Fix, S/W,Book"},
+			{"Code":"GE03","Value":"GE03 ประชุมแผนก, ประชุมโครงการ,ประชุมระหว่างหน่วยงานภาย"},
+			{"Code":"GE04","Value":"GE04 Check Mail"},
+			{"Code":"GE05","Value":"GE05 Test New Software/Hardware"},
+			{"Code":"GE06","Value":"GE06 รายงานความคืบหน้าโครงการ,KPI,Write Service Report"},
+			{"Code":"GE07","Value":"GE07 ติดตามงาน, ควบคุมตรวจสอบการทำงาน"},
+			{"Code":"GE09","Value":"GE09 Sick Leave, Vocation,Birth Leave,Ordrian Leave"},
+			{"Code":"GE10","Value":"GE10 Interview"},
+			{"Code":"GE11","Value":"GE11 ทบทวน/อนุมัติเอกสาร"},
+			{"Code":"GE12","Value":"GE12 Others"},
+			{"Code":"GE13","Value":"GE13 ระยเวลาในการเดินทาง (พบลูกค้า)"},
+			{"Code":"GE14","Value":"GE14 Audit ISO."}
     ]}
     ]
 }
