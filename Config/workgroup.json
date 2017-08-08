@@ -1,4 +1,4 @@
-{	"WorkGroupList":[
+{"WorkGroupList":[
 	{
     "DepartmentCode":"DEV",
     "DepartmentName":"Development Phase",
@@ -15,7 +15,7 @@
     		{"Code":"D805","Value": "D805 จัดทำรายงานการประชุม"}
     ]},
     {
-	"DepartmentCode":"SQA",
+    "DepartmentCode":"SQA",
     "DepartmentName":"Software Quality Assurance Audit",
     "ProcessCode":[
 			{"Code":"D701","Value": "D701 จัดทำรายงาน SQA (ผลการตรวจ)"},
@@ -27,7 +27,7 @@
     ]}
 	,
     {
-	"DepartmentCode":"GE",
+    "DepartmentCode":"GE",
     "DepartmentName":"General",
     "ProcessCode":[
 			{"Code":"D805","Value":"D805 จัดทำรายงานการประชุม"},
