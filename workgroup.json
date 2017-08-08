@@ -1,0 +1,29 @@
+{	"WorkGroupList":[
+	{
+    "DepartmentCode":"DEV",
+    "DepartmentName":"Development Phase",
+    "ProcessCode":[
+    		{"Code":"D105","Value": "D105 ปรับปรุง Requirement Traceability"},
+    		{"Code":"D106","Value": "D106 จัดทำแผน/ปรับปรุงแผน"},
+    		{"Code":"D301","Value": "D301 จัดทำ Program Specification"},
+    		{"Code":"D303","Value": "D303 Coding Program (Program ID.)"},
+    		{"Code":"D304","Value": "D304 แก้ไขโปรแกรม (Bug)"},
+    		{"Code":"D305","Value": "D305 ปรับปรุงโปรแกรม (SA เปลี่ยน Spec.)"},
+    		{"Code":"D306","Value": "D306 แก้ไขโปรแกรม (Bug แก้แทนคนเดิม)"},
+    		{"Code":"D307","Value": "D307 ปรับปรุงโปรแกรม (แก้แทนคนเดิม)"},
+    		{"Code":"D308","Value": "D308 จัดทำเอกสารคู่มือต่างๆ"},
+    		{"Code":"D805","Value": "D805 จัดทำรายงานการประชุม"}
+    ]},
+    {
+	"DepartmentCode":"SQA",
+    "DepartmentName":"Software Quality Assurance Audit",
+    "ProcessCode":[
+			{"Code":"D701","Value": "D701 จัดทำรายงาน SQA (ผลการตรวจ)"},
+			{"Code":"D702","Value": "D702 SQA Audit (ทวนสอบเอกสารและกิจกรรม)"},
+			{"Code":"D703","Value": "D703 ทวนสอบระบบงาน"},
+			{"Code":"D704","Value": "D704 จัดทำเอกสารการทดสอบ (เพื่อส่งมอบ)"},
+			{"Code":"D705","Value": "D705 จัดเตรียมข้อมูลเพื่อทดสอบ"},
+			{"Code":"D706","Value": "D706 Performance Test / Load Test"},
+    ]}
+    ]
+}
