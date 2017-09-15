@@ -3,16 +3,16 @@
     "DepartmentCode":"DEV",
     "DepartmentName":"Development Phase",
     "ProcessCode":[
-    		{"Code":"D105","Value": "D105 ปรับปรุง Requirement Traceability"},
-    		{"Code":"D106","Value": "D106 จัดทำแผน/ปรับปรุงแผน"},
-    		{"Code":"D301","Value": "D301 จัดทำ Program Specification"},
-    		{"Code":"D303","Value": "D303 Coding Program (Program ID.)"},
-    		{"Code":"D304","Value": "D304 แก้ไขโปรแกรม (Bug)"},
-    		{"Code":"D305","Value": "D305 ปรับปรุงโปรแกรม (SA เปลี่ยน Spec.)"},
-    		{"Code":"D306","Value": "D306 แก้ไขโปรแกรม (Bug แก้แทนคนเดิม)"},
-    		{"Code":"D307","Value": "D307 ปรับปรุงโปรแกรม (แก้แทนคนเดิม)"},
-    		{"Code":"D308","Value": "D308 จัดทำเอกสารคู่มือต่างๆ"},
-    		{"Code":"D805","Value": "D805 จัดทำรายงานการประชุม"}
+			{"Code":"D105","Value": "D105 ปรับปรุง Requirement Traceability"},
+			{"Code":"D106","Value": "D106 จัดทำแผน/ปรับปรุงแผน"},
+			{"Code":"D301","Value": "D301 จัดทำ Program Specification"},
+			{"Code":"D303","Value": "D303 Coding Program (Program ID.)"},
+			{"Code":"D304","Value": "D304 แก้ไขโปรแกรม (Bug)"},
+			{"Code":"D305","Value": "D305 ปรับปรุงโปรแกรม (SA เปลี่ยน Spec.)"},
+			{"Code":"D306","Value": "D306 แก้ไขโปรแกรม (Bug แก้แทนคนเดิม)"},
+			{"Code":"D307","Value": "D307 ปรับปรุงโปรแกรม (แก้แทนคนเดิม)"},
+			{"Code":"D308","Value": "D308 จัดทำเอกสารคู่มือต่างๆ"},
+			{"Code":"D805","Value": "D805 จัดทำรายงานการประชุม"}
     ]},
 	{
     "DepartmentCode":"DES",
@@ -25,6 +25,20 @@
 			{"Code":"D203","Value": "D203 นำเสนอผลการออกแบบ"},
 			{"Code":"D204","Value": "D204 จัดทำทะเบียนคุมการพัฒนาระบบงาน"},
 			{"Code":"D205","Value": "D205 ออกแบบจอภาพ"},
+			{"Code":"D805","Value": "D805 จัดทำรายงานการประชุม"}
+    ]}
+	,
+	{
+    "DepartmentCode":"IMP",
+    "DepartmentName":"Implementing Phase",
+    "ProcessCode":[
+			{"Code":"D105","Value": "D105 ปรับปรุง Requirement Traceability"},
+			{"Code":"D106","Value": "D106 จัดทำแผน/ปรับปรุงแผน"},
+			{"Code":"D501","Value": "D501 จัดทำ Producttion Release/Release Product"},
+			{"Code":"D502","Value": "D502 Deploy Application"},
+			{"Code":"D504","Value": "D504 UAT"},
+			{"Code":"D505","Value": "D505 Pilot Test / Parallel Run"},
+			{"Code":"D506","Value": "D506 อบรมระบบงาน"},
 			{"Code":"D805","Value": "D805 จัดทำรายงานการประชุม"}
     ]}
 	,
