@@ -14,6 +14,20 @@
     		{"Code":"D308","Value": "D308 จัดทำเอกสารคู่มือต่างๆ"},
     		{"Code":"D805","Value": "D805 จัดทำรายงานการประชุม"}
     ]},
+	{
+    "DepartmentCode":"DES",
+    "DepartmentName":"Analysis & Design Phase",
+    "ProcessCode":[
+			{"Code":"D105","Value": "D105 ปรับปรุง Requirement Traceability"},
+			{"Code":"D106","Value": "D106 จัดทำแผน/ปรับปรุงแผน"},
+			{"Code":"D201","Value": "D201 วิเคราะห์และออกแบบระบบงาน"},
+			{"Code":"D202","Value": "D202 จัดทำเอกสารการออกแบบระบบงาน"},
+			{"Code":"D203","Value": "D203 นำเสนอผลการออกแบบ"},
+			{"Code":"D204","Value": "D204 จัดทำทะเบียนคุมการพัฒนาระบบงาน"},
+			{"Code":"D205","Value": "D205 ออกแบบจอภาพ"},
+			{"Code":"D805","Value": "D805 จัดทำรายงานการประชุม"}
+    ]}
+	,
     {
     "DepartmentCode":"SQA",
     "DepartmentName":"Software Quality Assurance Audit",
