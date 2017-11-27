@@ -72,5 +72,41 @@
 			{"Code":"GE13","Value":"GE13 ระยเวลาในการเดินทาง (พบลูกค้า)"},
 			{"Code":"GE14","Value":"GE14 Audit ISO."}
     ]}
+	,
+    {
+    "DepartmentCode":"TES",
+    "DepartmentName":"TES  (Testing)",
+    "ProcessCode":[
+			{"Code":"D401","Value": "D401 จัดทำ Incedent Report"},
+			{"Code":"D402","Value": "D402 จัดทำ/วิเคราะห์/สรุป UC"},
+			{"Code":"D403","Value": "D403 จัดทำเอกสารประกอบการตรวจรับ"},
+			{"Code":"D501","Value": "D501 จัดทำ Producttion Release/Release Product"},
+			{"Code":"D502","Value": "D502 Deploy Application"},
+			{"Code":"D504","Value": "D504 UAT"},
+	    		{"Code":"D505","Value": "D505 Pilot Test / Parallel Run"},
+	    		{"Code":"D507","Value": "D507 Unit Test"},
+	    		{"Code":"D508","Value": "D508 System/Integration Test"},
+	    		{"Code":"D703","Value": "D703 ทวนสอบระบบงาน"},
+			{"Code":"D704","Value": "D704 จัดทำเอกสารการทดสอบ (เพื่อส่งมอบ)"},
+			{"Code":"D705","Value": "D705 จัดเตรียมข้อมูลเพื่อทดสอบ"},
+			{"Code":"D706","Value": "D706 Performance Test / Load Test"},
+			{"Code":"IN10","Value": "IN10 Performance Tuning"}
+	   
+    ]}
+	,
+    {
+    "DepartmentCode":"TR",
+    "DepartmentName":"TR  (Training)",
+    "ProcessCode":[
+			{"Code":"TR01","Value": "TR01 Class Training"},
+			{"Code":"TR02","Value": "TR02 Seminar"},
+			{"Code":"TR03","Value": "TR03 Self Study"},
+			{"Code":"TR04","Value": "TR04 On The Job (PCC Team), Internal Training"},
+			{"Code":"TR05","Value": "TR05 On The Job (Customer)"},
+			{"Code":"TR06","Value": "TR06 On The Job (Supplier)"},
+			{"Code":"TR07","Value": "TR07 Conduct Coruse for Customer"},
+			{"Code":"TR08","Value": "TR08 Certified Exam"}
+    ]}						
+	
     ]
 }
