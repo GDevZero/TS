@@ -1,7 +1,17 @@
 {   "ProjectList":[
 	{
+		"ProjectCode":"-",
+		"ProjectName":"- (ไม่มีโครงการ)",
+		"SystemCode":[]
+ 	},
+	{
 		"ProjectCode":"RD",
 		"ProjectName":"กรมสรรพากร",
+		"SystemCode":[]
+	},
+	{
+		"ProjectCode":"RD-0008-58",
+		"ProjectName":"RD-0008-58 (บริหารจัดทำและนำส่งข้อมูลใบกำกับภาษีอิเล็กทรอนิกส์ และใบรับอิเล็กทรอนิกส์ (e-Tax Invoice))",
 		"SystemCode":[]
 	},
 	{
@@ -43,7 +53,17 @@
 		"ProjectCode":"SD1-4011-",
 		"ProjectName":"SD1-4011- (แผนก SD1)",
 		"SystemCode":[]
-	}
+	},
+	{
+		"ProjectCode":"SLF-0047-60",
+		"ProjectName":"SLF-0047-60 (ระบบงาน กยศ. MA 61)",
+		"SystemCode":[
+			{"Code":"01","Value": "e-Audit"},
+			{"Code":"02","Value": "e-Studentloan"},
+			{"Code":"03","Value": "e-Sup"},
+			{"Code":"04","Value": "ICL55"}
+		 ]
+	},
 	
 	]
 }
