@@ -43,6 +43,19 @@
     ]}
 	,
     {
+    "DepartmentCode":"REQ",
+    "DepartmentName":"Requirement Gathering Phase",
+    "ProcessCode":[
+			{"Code":"D101","Value": "D101 สำรวจและศึกษาระบบงาน"},
+			{"Code":"D102","Value": "D102 จัดทำเอกสาร SRS"},
+			{"Code":"D103","Value": "D103 นำเสนอ SRS"},
+			{"Code":"D104","Value": "D104 จัดทำ Requirement Traceability"},
+			{"Code":"D105","Value": "D105 ปรับปรุง Requirement Traceability"},
+			{"Code":"D106","Value": "D106 จัดทำแผน/ปรับปรุงแผน"},
+			{"Code":"D805","Value": "D805 จัดทำรายงานการประชุม"}
+    ]}
+	,
+    {
     "DepartmentCode":"SQA",
     "DepartmentName":"Software Quality Assurance Audit",
     "ProcessCode":[
