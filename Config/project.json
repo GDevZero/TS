@@ -1,81 +1,229 @@
-{   "ProjectList":[
-	{
-		"ProjectCode":"-",
-		"ProjectName":"- (ไม่มีโครงการ)",
-		"SystemCode":[]
- 	},
-	{
-      		"ProjectCode": "ED",
-      		"ProjectName": "กรมสรรพสามิต",
-      		"SystemCode": []
-    	},
-	{
-		"ProjectCode":"RD",
-		"ProjectName":"กรมสรรพากร",
-		"SystemCode":[]
-	},
-	{
-		"ProjectCode":"RD-0008-58",
-		"ProjectName":"RD-0008-58 (บริหารจัดทำและนำส่งข้อมูลใบกำกับภาษีอิเล็กทรอนิกส์ และใบรับอิเล็กทรอนิกส์ (e-Tax Invoice))",
-		"SystemCode":[]
-	},
-	{
-		"ProjectCode":"RD-0045-59",
-		"ProjectName":"MA IT บอ, eSup, sPIT (1/10/59-30/9/60)",
-		"SystemCode":[
-			{"Code":"01","Value": "SPIT"},
-			{"Code":"02","Value": "ESUP"},
-			{"Code":"03","Value": "PIT"},
-			{"Code":"04","Value": "CIT"},
-			{"Code":"05","Value": "VAT"},
-			{"Code":"06","Value": "SBT"},
-			{"Code":"07","Value": "REG"},
-			{"Code":"08","Value": "ปปช"},
-			{"Code":"09","Value": "ระบบจัดเก็บภาพ"},
-			{"Code":"eSup-SPIT","Value": "eSup-SPIT"},
-			{"Code":"IT","Value": "ยื่นแบบผ่านอินเทอร์เน็ต"}
-		]
-	},
-	{
-		"ProjectCode":"RD-0024-59",
-		"ProjectName":"RD-0024-59 (SSO (บอ.))",
-		"SystemCode":[]
-	},
-	{
-		"ProjectCode":"RD-0025-60",
-		"ProjectName":"e-Filing",
-		"SystemCode":[]
-	},
-	{
-		"ProjectCode":"RD-0062-60",
-		"ProjectName":"RD-0062-60 (ระบบการยื่นแบบฯ ผ่าน Internet และระบบงานกำกับดูแลโดยใกล้ชิด)",
-		"SystemCode":[
-			{"Code":"01","Value": "internet"},
-			{"Code":"02","Value": "eSup, SPIT"}
-		]
-	},
-	{
-		"ProjectCode": "RD-0025-61",
-		"ProjectName": "RD-0025-61 (MA IT (1-6-61 -> 30-9-61))",
-		"SystemCode": [
-			{"Code":"eSup-SPIT","Value": "eSup-SPIT"},
-			{"Code":"IT","Value": "ยื่นแบบผ่านอินเทอร์เน็ต"}
-		]
-    	},
-	{
-		"ProjectCode":"SD1-4011-",
-		"ProjectName":"SD1-4011- (แผนก SD1)",
-		"SystemCode":[]
-	},
-	{
-		"ProjectCode":"SLF-0047-60",
-		"ProjectName":"SLF-0047-60 (ระบบงาน กยศ. MA 61)",
-		"SystemCode":[
-			{"Code":"01","Value": "e-Audit"},
-			{"Code":"02","Value": "e-Studentloan"},
-			{"Code":"03","Value": "e-Sup"},
-			{"Code":"04","Value": "ICL55"}
-		 ]
-	}
-	]
+{
+  "ProjectList": [
+    {
+      "ProjectCode": "-",
+      "ProjectName": "- (ไม่มีโครงการ)",
+      "SystemCode": []
+    },
+    {
+      "ProjectCode": "ED",
+      "ProjectName": "กรมสรรพสามิต",
+      "SystemCode": []
+    },
+    {
+      "ProjectCode": "ED-0041-60",
+      "ProjectName": "ED-0041-60 (พรบ 2560)",
+      "SystemCode": [
+        {
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "Code": "ALL",
+          "Value": "รายได้รวมทั่วประเทศ"
+        },
+        {
+          "Code": "ANA",
+          "Value": "วิเคราะห์รายการภาษี"
+        },
+        {
+          "Code": "BCL",
+          "Value": "ระบบขอซื้อขอขน"
+        },
+        {
+          "Code": "BCL-2",
+          "Value": "ระบบสัญญาค้ำประกัน"
+        },
+        {
+          "Code": "DEP",
+          "Value": "ระบบบัญชีพักหน่วยงาน"
+        },
+        {
+          "Code": "FLW",
+          "Value": "ติดตามมูลค่า"
+        },
+        {
+          "Code": "GF",
+          "Value": "GFMIS"
+        },
+        {
+          "Code": "IMP",
+          "Value": "รายได้จากการนำเข้า"
+        },
+        {
+          "Code": "INC",
+          "Value": "ระบบงานรายได้ประจำวันในประเทศ"
+        },
+        {
+          "Code": "LAS",
+          "Value": "งบวัน งบเดือน"
+        },
+        {
+          "Code": "LIB",
+          "Value": "LIBRARY ระบบงานหลัก"
+        },
+        {
+          "Code": "LIC",
+          "Value": "ระบบงานใบอนุญาต"
+        },
+        {
+          "Code": "OFS",
+          "Value": "ระบบงานกองทุนน้ำมัน"
+        },
+        {
+          "Code": "OIL",
+          "Value": "ระบบควบคุมน้ำมัน"
+        },
+        {
+          "Code": "PRC",
+          "Value": "วิชาการและกำหนดมูลค่า"
+        },
+        {
+          "Code": "RDB",
+          "Value": "ระบบงานฐานข้อมูลอ้างอิงกลาง"
+        },
+        {
+          "Code": "REG",
+          "Value": "ระบบงานทะเบียนสรรพสามิต"
+        },
+        {
+          "Code": "RTN",
+          "Value": "คืน ยกเว้น และลดหย่อน"
+        },
+        {
+          "Code": "SSO",
+          "Value": "ระบบความปลอดภัยกลาง"
+        },
+        {
+          "Code": "TCL",
+          "Value": "ระบบทะเบียนคุมรายการและจัดทำบัญชีผู้เสียภาษี"
+        }
+      ]
+    },
+    {
+      "ProjectCode": "RD",
+      "ProjectName": "กรมสรรพากร",
+      "SystemCode": []
+    },
+    {
+      "ProjectCode": "RD-0008-58",
+      "ProjectName": "RD-0008-58 (บริหารจัดทำและนำส่งข้อมูลใบกำกับภาษีอิเล็กทรอนิกส์ และใบรับอิเล็กทรอนิกส์ (e-Tax Invoice))",
+      "SystemCode": []
+    },
+    {
+      "ProjectCode": "RD-0045-59",
+      "ProjectName": "MA IT บอ, eSup, sPIT (1/10/59-30/9/60)",
+      "SystemCode": [
+        {
+          "Code": "01",
+          "Value": "SPIT"
+        },
+        {
+          "Code": "02",
+          "Value": "ESUP"
+        },
+        {
+          "Code": "03",
+          "Value": "PIT"
+        },
+        {
+          "Code": "04",
+          "Value": "CIT"
+        },
+        {
+          "Code": "05",
+          "Value": "VAT"
+        },
+        {
+          "Code": "06",
+          "Value": "SBT"
+        },
+        {
+          "Code": "07",
+          "Value": "REG"
+        },
+        {
+          "Code": "08",
+          "Value": "ปปช"
+        },
+        {
+          "Code": "09",
+          "Value": "ระบบจัดเก็บภาพ"
+        },
+        {
+          "Code": "eSup-SPIT",
+          "Value": "eSup-SPIT"
+        },
+        {
+          "Code": "IT",
+          "Value": "ยื่นแบบผ่านอินเทอร์เน็ต"
+        }
+      ]
+    },
+    {
+      "ProjectCode": "RD-0024-59",
+      "ProjectName": "RD-0024-59 (SSO (บอ.))",
+      "SystemCode": []
+    },
+    {
+      "ProjectCode": "RD-0025-60",
+      "ProjectName": "e-Filing",
+      "SystemCode": []
+    },
+    {
+      "ProjectCode": "RD-0062-60",
+      "ProjectName": "RD-0062-60 (ระบบการยื่นแบบฯ ผ่าน Internet และระบบงานกำกับดูแลโดยใกล้ชิด)",
+      "SystemCode": [
+        {
+          "Code": "01",
+          "Value": "internet"
+        },
+        {
+          "Code": "02",
+          "Value": "eSup, SPIT"
+        }
+      ]
+    },
+    {
+      "ProjectCode": "RD-0025-61",
+      "ProjectName": "RD-0025-61 (MA IT (1-6-61 -> 30-9-61))",
+      "SystemCode": [
+        {
+          "Code": "eSup-SPIT",
+          "Value": "eSup-SPIT"
+        },
+        {
+          "Code": "IT",
+          "Value": "ยื่นแบบผ่านอินเทอร์เน็ต"
+        }
+      ]
+    },
+    {
+      "ProjectCode": "SD1-4011-",
+      "ProjectName": "SD1-4011- (แผนก SD1)",
+      "SystemCode": []
+    },
+    {
+      "ProjectCode": "SLF-0047-60",
+      "ProjectName": "SLF-0047-60 (ระบบงาน กยศ. MA 61)",
+      "SystemCode": [
+        {
+          "Code": "01",
+          "Value": "e-Audit"
+        },
+        {
+          "Code": "02",
+          "Value": "e-Studentloan"
+        },
+        {
+          "Code": "03",
+          "Value": "e-Sup"
+        },
+        {
+          "Code": "04",
+          "Value": "ICL55"
+        }
+      ]
+    }
+  ]
 }
