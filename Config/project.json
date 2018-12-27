@@ -199,6 +199,21 @@
       ]
     },
     {
+      "ProjectCode": "RD-0052-61",
+      "ProjectName": "RD-0052-61 (MA บอ. , eSup, SPIT)",
+      "SystemCode": [
+        {
+          "Code": "eSup-SPIT",
+          "Value": "eSup-SPIT"
+        },
+        {
+          "Code": "IT",
+          "Value": "ยื่นแบบผ่านอินเทอร์เน็ต"
+        }
+      ]
+      
+    },
+    {
       "ProjectCode": "SD1-4011-",
       "ProjectName": "SD1-4011- (แผนก SD1)",
       "SystemCode": []
