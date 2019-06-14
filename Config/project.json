@@ -215,7 +215,20 @@
           "Value": "ตราสาร (อส9)"
         }
       ]
-      
+    },
+    {
+      "ProjectCode": "RD-0016-62",
+      "ProjectName": "RD-0016-62 (eStamp)",
+      "SystemCode": [
+        {
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "Code": "01",
+          "Value": "ระบบการรับชำระอากรแสตมป์เป็นตัวเงิน"
+        }
+      ]
     },
     {
       "ProjectCode": "SD1-4011-",
